@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.14.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_111193</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>30</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_111193</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>30</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2591582195|ref|XM_007521745.3|</Hit_id>
+  <Hit_def>PREDICTED: Erinaceus europaeus presenilin 1 (PSEN1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_007521745</Hit_accession>
+  <Hit_len>5632</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>298</Hsp_hit-from>
+      <Hsp_hit-to>327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2591582194|ref|XM_007521744.3|</Hit_id>
+  <Hit_def>PREDICTED: Erinaceus europaeus presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_007521744</Hit_accession>
+  <Hit_len>5644</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>298</Hsp_hit-from>
+      <Hsp_hit-to>327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2591582192|ref|XM_060175516.1|</Hit_id>
+  <Hit_def>PREDICTED: Erinaceus europaeus presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_060175516</Hit_accession>
+  <Hit_len>5701</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>298</Hsp_hit-from>
+      <Hsp_hit-to>327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2591582190|ref|XM_060175515.1|</Hit_id>
+  <Hit_def>PREDICTED: Erinaceus europaeus presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_060175515</Hit_accession>
+  <Hit_len>5707</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>298</Hsp_hit-from>
+      <Hsp_hit-to>327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2591582188|ref|XM_060175514.1|</Hit_id>
+  <Hit_def>PREDICTED: Erinaceus europaeus presenilin 1 (PSEN1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_060175514</Hit_accession>
+  <Hit_len>5713</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>298</Hsp_hit-from>
+      <Hsp_hit-to>327</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2558342116|ref|XM_058655220.1|</Hit_id>
+  <Hit_def>PREDICTED: Ochotona princeps presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_058655220</Hit_accession>
+  <Hit_len>2411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>326</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2558342114|ref|XM_058655219.1|</Hit_id>
+  <Hit_def>PREDICTED: Ochotona princeps presenilin 1 (PSEN1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_058655219</Hit_accession>
+  <Hit_len>2414</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>329</Hsp_hit-from>
+      <Hsp_hit-to>358</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2556791349|ref|XM_046440961.2|</Hit_id>
+  <Hit_def>PREDICTED: Marmota monax presenilin 1 (Psen1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_046440961</Hit_accession>
+  <Hit_len>2759</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>312</Hsp_hit-from>
+      <Hsp_hit-to>341</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2556791348|ref|XM_046440959.2|</Hit_id>
+  <Hit_def>PREDICTED: Marmota monax presenilin 1 (Psen1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_046440959</Hit_accession>
+  <Hit_len>2771</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>312</Hsp_hit-from>
+      <Hsp_hit-to>341</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|2522790828|ref|XR_005030463.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla presenilin 1 (PSEN1), transcript variant X5, misc_RNA</Hit_def>
+  <Hit_accession>XR_005030463</Hit_accession>
+  <Hit_len>2773</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>311</Hsp_hit-from>
+      <Hsp_hit-to>340</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2522790826|ref|XM_057488339.1|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_057488339</Hit_accession>
+  <Hit_len>2654</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>196</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|2522790825|ref|XM_036913280.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_036913280</Hit_accession>
+  <Hit_len>2707</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>249</Hsp_hit-from>
+      <Hsp_hit-to>278</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|2522790824|ref|XM_036913279.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_036913279</Hit_accession>
+  <Hit_len>2672</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>214</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|2522790823|ref|XM_036913278.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla presenilin 1 (PSEN1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_036913278</Hit_accession>
+  <Hit_len>2769</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>311</Hsp_hit-from>
+      <Hsp_hit-to>340</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|2499326197|emb|OX485826.1|</Hit_id>
+  <Hit_def>Erinaceus europaeus genome assembly, chromosome: 16</Hit_def>
+  <Hit_accession>OX485826</Hit_accession>
+  <Hit_len>86865962</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>77904443</Hsp_hit-from>
+      <Hsp_hit-to>77904414</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2493343725|ref|XM_031001702.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_031001702</Hit_accession>
+  <Hit_len>2798</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>330</Hsp_hit-from>
+      <Hsp_hit-to>359</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2493343724|ref|XM_031001701.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_031001701</Hit_accession>
+  <Hit_len>2802</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>334</Hsp_hit-from>
+      <Hsp_hit-to>363</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2493343722|ref|XM_055360831.1|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_055360831</Hit_accession>
+  <Hit_len>2682</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>214</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2493343720|ref|XM_055360830.1|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_055360830</Hit_accession>
+  <Hit_len>2689</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>209</Hsp_hit-from>
+      <Hsp_hit-to>238</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2493343719|ref|XM_031001699.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_031001699</Hit_accession>
+  <Hit_len>2799</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>319</Hsp_hit-from>
+      <Hsp_hit-to>348</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2493343718|ref|XM_031001698.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla presenilin 1 (PSEN1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_031001698</Hit_accession>
+  <Hit_len>2813</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>333</Hsp_hit-from>
+      <Hsp_hit-to>362</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2490729806|ref|XM_055097790.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X16, mRNA</Hit_def>
+  <Hit_accession>XM_055097790</Hit_accession>
+  <Hit_len>6612</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>859</Hsp_hit-from>
+      <Hsp_hit-to>888</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|2490729804|ref|XM_055097789.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X15, mRNA</Hit_def>
+  <Hit_accession>XM_055097789</Hit_accession>
+  <Hit_len>5975</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>222</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2490729802|ref|XM_055097788.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X14, mRNA</Hit_def>
+  <Hit_accession>XM_055097788</Hit_accession>
+  <Hit_len>7428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>1675</Hsp_hit-from>
+      <Hsp_hit-to>1704</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2490729800|ref|XM_055097787.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X13, mRNA</Hit_def>
+  <Hit_accession>XM_055097787</Hit_accession>
+  <Hit_len>6396</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>643</Hsp_hit-from>
+      <Hsp_hit-to>672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2490729798|ref|XM_055097786.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X12, mRNA</Hit_def>
+  <Hit_accession>XM_055097786</Hit_accession>
+  <Hit_len>9050</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>3297</Hsp_hit-from>
+      <Hsp_hit-to>3326</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2490729796|ref|XM_055097785.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X11, mRNA</Hit_def>
+  <Hit_accession>XM_055097785</Hit_accession>
+  <Hit_len>9266</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>3513</Hsp_hit-from>
+      <Hsp_hit-to>3542</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|2490729794|ref|XM_055097784.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X10, mRNA</Hit_def>
+  <Hit_accession>XM_055097784</Hit_accession>
+  <Hit_len>6074</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>321</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2490729793|ref|XM_008977860.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X9, mRNA</Hit_def>
+  <Hit_accession>XM_008977860</Hit_accession>
+  <Hit_len>6083</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>330</Hsp_hit-from>
+      <Hsp_hit-to>359</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2490729791|ref|XM_055097783.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_055097783</Hit_accession>
+  <Hit_len>6408</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>643</Hsp_hit-from>
+      <Hsp_hit-to>672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|2490729789|ref|XM_055097782.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_055097782</Hit_accession>
+  <Hit_len>6624</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>859</Hsp_hit-from>
+      <Hsp_hit-to>888</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2490729787|ref|XM_055097781.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_055097781</Hit_accession>
+  <Hit_len>7440</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>1675</Hsp_hit-from>
+      <Hsp_hit-to>1704</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|2490729785|ref|XM_055097780.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_055097780</Hit_accession>
+  <Hit_len>6096</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>331</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|2490729783|ref|XM_055097779.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_055097779</Hit_accession>
+  <Hit_len>9062</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>3297</Hsp_hit-from>
+      <Hsp_hit-to>3326</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|2490729781|ref|XM_055097778.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_055097778</Hit_accession>
+  <Hit_len>9278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>3513</Hsp_hit-from>
+      <Hsp_hit-to>3542</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|2490729780|ref|XM_008977858.4|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_008977858</Hit_accession>
+  <Hit_len>6086</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>321</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|2490729779|ref|XM_003824135.4|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus presenilin 1 (PSEN1), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_003824135</Hit_accession>
+  <Hit_len>6096</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>331</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|2488159015|emb|OX463228.1|</Hit_id>
+  <Hit_def>Sylvilagus floridanus genome assembly, chromosome: 6</Hit_def>
+  <Hit_accession>OX463228</Hit_accession>
+  <Hit_len>55510595</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>5967223</Hsp_hit-from>
+      <Hsp_hit-to>5967194</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|2468511092|ref|XM_016926346.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X9, mRNA</Hit_def>
+  <Hit_accession>XM_016926346</Hit_accession>
+  <Hit_len>3545</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>1081</Hsp_hit-from>
+      <Hsp_hit-to>1110</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|2468511091|ref|XM_016926344.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_016926344</Hit_accession>
+  <Hit_len>3244</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>780</Hsp_hit-from>
+      <Hsp_hit-to>809</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|2468511089|ref|XM_016926347.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_016926347</Hit_accession>
+  <Hit_len>2778</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>314</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|2468511087|ref|XM_016926343.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_016926343</Hit_accession>
+  <Hit_len>2788</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>324</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|2468511085|ref|XM_016926340.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_016926340</Hit_accession>
+  <Hit_len>3256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>780</Hsp_hit-from>
+      <Hsp_hit-to>809</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|2468511082|ref|XM_016926338.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_016926338</Hit_accession>
+  <Hit_len>2802</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>326</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|2468511079|ref|XM_016926339.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_016926339</Hit_accession>
+  <Hit_len>3557</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>1081</Hsp_hit-from>
+      <Hsp_hit-to>1110</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|2468511076|ref|XM_016926341.3|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_016926341</Hit_accession>
+  <Hit_len>2694</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>218</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|2464092769|ref|XM_024231242.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii presenilin 1 (PSEN1), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_024231242</Hit_accession>
+  <Hit_len>2684</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>214</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|2464092768|ref|XM_024231241.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii presenilin 1 (PSEN1), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_024231241</Hit_accession>
+  <Hit_len>2780</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>310</Hsp_hit-from>
+      <Hsp_hit-to>339</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|2464092767|ref|XM_024231239.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii presenilin 1 (PSEN1), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_024231239</Hit_accession>
+  <Hit_len>2947</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>465</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|2464092766|ref|XM_024231238.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii presenilin 1 (PSEN1), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_024231238</Hit_accession>
+  <Hit_len>2795</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>8.71819e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>313</Hsp_hit-from>
+      <Hsp_hit-to>342</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_qseq>
+      <Hsp_hseq>ATGCACAGATGTCTGAGGACAACCACCTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>99998116</Statistics_db-num>
+      <Statistics_db-len>2111807706</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

@@ -70,10 +70,6 @@ if __name__ == "__main__":
     if not os.path.exists(xml_file):
         print(f"Error: XML file '{xml_file}' does not exist.")
         exit(1)
-    extension = args.input.split(".")[-1]
-    if extension != "fas" and extension != "fasta":
-        print("Error: Please enter .fas or .fasta file")
-        exit(1)
     sequences = get_sequences(xml_file)
     if not sequences:
         print("Error: Not sequences were found.")

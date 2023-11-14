@@ -3,6 +3,7 @@ import subprocess
 from enum import Enum
 import os
 
+
 class ORF(Enum):
     PROTEIN = 1
     NUCLEOTIDE = 3
@@ -19,7 +20,7 @@ def get_orf(method):
 
 
 def run_emboss_patmatdb(input_proteins, output_domains):
-    prosite_database_path = "/ruta/completa/al/nuevo_prosite.dat"
+    prosite_database_path = "./prosite.dat"
     os.environ["PROSITE_DATABASE"] = prosite_database_path
 
     subprocess.run(f"patmatdb -sequence {input_proteins} -outfile {output_domains}", shell=True)

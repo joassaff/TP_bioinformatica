@@ -19,7 +19,11 @@ def run_muscle(in_file, out_file):
     )
 
 
-def msa(in_file, out_file):
+if __name__ == "__main__":
+    args = parse_arguments()
+    in_file = args.input
+    out_file = args.output
+
     try:
         run_muscle(in_file, out_file)
     except ApplicationError:
@@ -28,15 +32,3 @@ def msa(in_file, out_file):
     except OSError as e:
         print(f"Error: Unable to open {in_file}: {e}")
         exit(1)
-
-
-if __name__ == "__main__":
-    args = parse_arguments()
-    in_file = args.input
-    out_file = args.output
-
-    extension = args.input.split(".")[-1]
-    if extension != "fas" and extension != "fasta":
-        print("Error: Please enter .fas or .fasta file")
-        exit(1)
-    msa(in_file, out_file)

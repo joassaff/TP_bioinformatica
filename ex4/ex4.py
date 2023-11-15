@@ -22,8 +22,11 @@ def get_orf(method):
 def run_emboss_patmatdb(input_proteins, output_domains):
     prosite_database_path = "./prosite.dat"
     os.environ["PROSITE_DATABASE"] = prosite_database_path
-
-    subprocess.run(f"patmatdb -sequence {input_proteins} -outfile {output_domains}", shell=True)
+    # os.environ["EMBOSS_DATA"] = "/etc/emboss/embossrc.d"
+    # os.environ["PROSEXTRACT"] = '/usr/bin/prosextract'
+    # subprocess.run(f"patmatdb -sequence {input_proteins} -outfile {output_domains}", shell=True)
+    subprocess.run(f"patmatmotifs -sequence {input_proteins} -outfile {output_domains}", shell=True)
+    # subprocess.run(f"patmatmotifs -sequence {input_proteins} -outfile {output_domains} -motiffile prosite.dat", shell=True)
 
 
 if __name__ == '__main__':

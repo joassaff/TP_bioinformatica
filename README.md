@@ -20,7 +20,7 @@ Leer una o múltiples secuencias de nucleótidos de un archivo en formato Genban
 
 Ejemplo de ejecución
 ```
-python3 ./ex1.py sequencesPSEN1.gb
+python3 ./ex1.py sequencePSEN1.gb
 ```
 ### Ejercicio 2 – BLAST
 Para realizar un BLAST de una o varias secuencias y escribir el resultado en un archivo.
@@ -42,11 +42,15 @@ Para ejecutar los scripts por separado
 python3 create_sequences_file.py --input input_file.fasta
 python3 ./msa.py --input sequences.fasta
 ```
+Para visualizar el arbol filogenetico a partir del alineamiento, se debe ejecutar los siguientes comandos:
+```
+seqmagick convert --output-format phylip multiple_alignment output_alignment.phy
+FastTree -nt output_alignment.phy > output_tree.nwk
+python3 tree.py
+```
 ### Ejercicio 4 – EMBOSS
 El script encuentra ORFs en la secuencia de entrada (a nivel de proteínas o nucleótidos). Luego, realiza un análisis de dominios en las secuencias de aminoácidos obtenidas.
 Ejemplo de ejecución
 ```
 python3 ex4.py --input input_file.fas --method={orf_nt, orf_prot}
 ```
-### Ejercicio 5 
-### Ejercicio 6 – Trabajo con Bases de Datos Biológica
